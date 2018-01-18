@@ -6,4 +6,6 @@ feature modify
 
 dev modify
 
-dev another modify 
+dev another modify
+
+feature1 modify 
